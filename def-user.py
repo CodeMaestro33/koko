@@ -25,3 +25,4 @@ for key, value in user_info.items():
     print(f"{key}: {value}")
 
 print ("hello work sunday")
+print ("happy holi")
