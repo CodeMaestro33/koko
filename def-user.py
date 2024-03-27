@@ -27,3 +27,4 @@ for key, value in user_info.items():
 print ("hello work sunday")
 print ("happy holi")
 print ("tomorrow is Tuesday ")
+print("wtf/ftw")
