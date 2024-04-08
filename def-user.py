@@ -24,10 +24,3 @@ print("User Data:")
 for key, value in user_info.items():
     print(f"{key}: {value}")
 
-print ("hello work sunday")
-print ("happy holi")
-print ("tomorrow is Tuesday ")
-print("wtf/ftw")
-print("WHIPLASH")
-print ("Crypto")
-print("ltc")
