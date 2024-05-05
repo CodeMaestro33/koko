@@ -24,3 +24,4 @@ print("User Data:")
 for key, value in user_info.items():
     print(f"{key}: {value}")
 
+print("GIT")
